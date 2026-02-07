@@ -30,6 +30,10 @@ Each record captures the entire customer purchase journey, including:
 ---
 
 ## 3. Sales Performance Overview
+<p align="center">
+  <img src="Dashboards/Sales Dashboard.png" width="800" title="Power BI Dashboard Preview">
+</p>
+
 ### Revenue & Orders
 * **Total Revenue:** $5.94M
 * **Total Orders:** ~21K
@@ -45,6 +49,10 @@ Revenue distribution across product categories (e.g., Jackets, Shoes, Watches, T
 ---
 
 ## 4. Regional Analysis
+<p align="center">
+  <img src="Dashboards/Product Dashboard.png" width="800" title="Power BI Dashboard Preview">
+</p>
+
 * The **Midwest** region leads in both revenue and customer count.
 * The West, Northeast, and South contribute comparable shares, suggesting a well-distributed national footprint.
 * No region shows extreme underperformance, indicating consistent brand penetration across the U.S.
@@ -53,6 +61,10 @@ Revenue distribution across product categories (e.g., Jackets, Shoes, Watches, T
 ---
 
 ## 5. Customer Demographics & Behavior
+<p align="center">
+  <img src="Dashboards/Delivery Dashboard.png" width="800" title="Power BI Dashboard Preview">
+</p>
+
 ### Age Group Insights
 * Revenue contribution is strong across all age segments.
 * **18–24** and **25–34** age groups show higher revenue engagement, indicating strong traction among younger consumers.
